@@ -5,8 +5,8 @@
 These filter lists are designed to block various unwanted elements such as spaces and banners that may not fall under specific predefined categories. It aims to provide a cleaner browsing experience by targeting miscellaneous and often overlooked types of content that can clutter web pages.
 
 ### Features:
-Blocks unwanted spaces and banners
-- Targets content that does not fit into common ad categories
+Blocks potentially unwanted elements
+- Targets content that does not fit into common blocking categories
 - Enhances overall browsing experience by reducing clutter
 - etc.
 
