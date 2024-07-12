@@ -1,0 +1,8 @@
+! Title: Custom Filter List for spaces between elements
+! Description: A filter list to block e.g. spaces/banners, that have no functionality and just make the website unnecessary large
+! Last updated: 12-07-2024 at 15:56
+! Author: Brudda
+! License: GNU General Public License v3.0
+
+! Spaces between game categories
+playhop.com##.monetization-group_slider.monetization-group
