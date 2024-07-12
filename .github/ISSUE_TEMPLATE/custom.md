@@ -1,38 +1,34 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Custom Issue Template
+about: Describe your issue with a choice list and text fields
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Please choose one of the following options (replace [ ] with [x]):**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+- [ ] Bug Report
+- [ ] Feature Request
+- [ ] Documentation Issue
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Description:**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+_Provide a detailed description of the issue or request here._
 
-**Desktop (please complete the following information):**
-- OS: [e.g. iOS]
-- Browser [e.g. chrome, safari]
-- Version [e.g. 22]
+**Steps to Reproduce:**
 
-**Smartphone (please complete the following information):**
-- Device: [e.g. iPhone6]
-- OS: [e.g. iOS8.1]
-- Browser [e.g. stock browser, safari]
-- Version [e.g. 22]
+_List the steps to reproduce the problem:_
 
-**Additional context**
-Add any other context about the problem here.
+1. 
+2. 
+3. 
+
+**Expected Behavior:**
+
+_Describe what you expected to happen._
+
+**Additional Information:**
+
+_Add any additional context or screenshots here._
