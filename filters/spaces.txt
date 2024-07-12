@@ -1,5 +1,5 @@
 ! Title: Custom Filter List for spaces between elements
-! Description: A filter list to block e.g. spaces/banners, that have no functionality and just make the website unnecessary large
+! Description: A filter list to block e.g. spaces/banners, that have no functionality and just make the website unnecessarily large
 ! Last updated: 12-07-2024 at 17:32
 ! Author: Brudda
 ! License: GNU General Public License v3.0
