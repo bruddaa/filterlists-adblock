@@ -25,5 +25,9 @@ https://raw.githubusercontent.com/bruddaa/filterlists-adblock/main/filters/cooki
 ```
 https://raw.githubusercontent.com/bruddaa/filterlists-adblock/main/filters/promo.txt
 ```
+
+### Contribute:
+Everyone is welcome to contribute by easily opening an issue to report a problem or add missing elements to the lists.
+
 ### License:
 This filter list is licensed under GNU GENERAL PUBLIC LICENSE.
