@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/bruddaa/filterlists-adblock/main/filters/promo
 ```
 
 ### Contribute:
-Everyone is welcome to contribute by easily opening an issue to report a problem or add missing elements to the lists.
+Everyone is welcome to contribute by easily opening an issue to report a problem or add missing elements to the lists. 
 Note: Before contributing please read the category definitions and rules: HERE
 ###### *Try to avoid contributing cookie elements because when you use an adblocker that blocks such annoyances and you still see some, it is mostly because they serve a purpose on the website and are necessary for it to work.
 
