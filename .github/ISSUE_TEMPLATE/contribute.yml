@@ -1,0 +1,46 @@
+name: Contribute
+description: Submit elements that can be added to the filterlists
+labels: ["contribute"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the sections below to help make the filterlists more detailed.
+  - type: dropdown
+    id: filter-category
+    attributes:
+      label: "## Under what category does the missing element fall?"
+      options:
+        - "Spaces/Blank Elements"
+        - "Cookie Notices*"
+        - "Promotional Elements"
+    validations:
+      required: true
+  - type: textarea
+    id: website
+    attributes:
+      label: "## On which website can the element be found?"
+      placeholder: example.com
+    validations:
+      required: true
+  - type: textarea
+    id: element
+    attributes:
+      label: "## What/Where is the element that needs to be removed? (if possible the filter rule)"
+      placeholder: e.g. Banner at the top
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: "## Why does the element need to be removed?"
+      placeholder: e.g. Makes website large, Annoying etc.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "## URL with a screenshot of the element (Imgur recommended)"
+      placeholder: https://i.imgur.com/example.jpeg
+
+
