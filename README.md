@@ -1,4 +1,4 @@
-## Brudda's Custom Filter List
+## Brudda's Custom Filter Lists
 
 ### Description:
 
