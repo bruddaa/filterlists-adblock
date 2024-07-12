@@ -1,0 +1,29 @@
+name: Report a bug
+description: Report bugs/issues that cause problems with a website
+labels: ["bugs"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the sections below to help solve your issue.
+  - type: textarea
+    id: website
+    attributes:
+      label: "On which website do you face a problem?"
+      placeholder: example.com
+    validations:
+      required: true
+  - type: textarea
+    id: element
+    attributes:
+      label: "What exactly is the issue? (Try to provide a precise description)"
+      placeholder: e.g. important content is broken/missing (maybe explain how to reproduce it)
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "URL with a screenshot of the issue (Imgur recommended)"
+      placeholder: https://i.imgur.com/example.jpeg
+
+
