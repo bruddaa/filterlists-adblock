@@ -2,4 +2,4 @@
 ! Description: A filter list to block e.g. spaces/banners, that may not fall under a specific category
 ! Last updated: 2024-07-12
 ! Author: Brudda
-! License: 
+! License: GNU General Public License v3.0
