@@ -1,6 +1,6 @@
 name: Contribute
 description: Submit elements that can be added to the filterlists
-labels: ["contribute"]
+labels: ["contribution"]
 body:
   - type: markdown
     attributes:
