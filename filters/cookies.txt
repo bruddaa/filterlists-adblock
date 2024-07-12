@@ -1,0 +1,7 @@
+! Title: Custom Filter List for cookie dialogs
+! Description: A filter list to block cookie dialogs/notices
+! Last updated: 12-07-2024 at 16:32
+! Author: Brudda
+! License: GNU General Public License v3.0
+
+||cmp.chip.de/index.html$subdocument
