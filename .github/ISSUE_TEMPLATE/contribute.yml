@@ -42,5 +42,9 @@ body:
     attributes:
       label: "## URL with a screenshot of the element (Imgur recommended)"
       placeholder: https://i.imgur.com/example.jpeg
+  - type: markdown
+    attributes:
+      value: |
+        *Cookie Notices are sometimes necessary for a website to work!
 
 
