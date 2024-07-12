@@ -8,7 +8,6 @@ These filter lists are designed to block various unwanted elements such as space
 Blocks potentially unwanted elements
 - Targets content that does not fit into common blocking categories
 - Enhances overall browsing experience by reducing clutter
-- etc.
 
 ### Usage:
 To use this filter list(s), add the following URL(s) to your ad blocker’s custom filter list section.
@@ -28,8 +27,8 @@ https://raw.githubusercontent.com/bruddaa/filterlists-adblock/main/filters/promo
 
 ### Contribute:
 Everyone is welcome to contribute by easily opening an issue to report a problem or add missing elements to the lists. 
-Note: Before contributing please read the category definitions and rules: HERE
+Note: Before contributing please read the category definitions and rules: [HERE](./RULES%20OF%20CONTRIBUTION.md)
 ###### *Try to avoid contributing cookie elements because when you use an adblocker that blocks such annoyances and you still see some, it is mostly because they serve a purpose on the website and are necessary for it to work.
 
 ### License:
-This filter list is licensed under GNU GENERAL PUBLIC LICENSE.
+These filter lists are licensed under GNU GENERAL PUBLIC LICENSE.
