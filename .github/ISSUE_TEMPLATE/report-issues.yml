@@ -1,11 +1,11 @@
-name: Bug Report
-description: Report a bug
-labels: ["bug"]
+name: Website Issues
+description: Report issues with websites that happen when using a filterlist.
+labels: ["issue"]
 body:
   - type: markdown
     attributes:
       value: |
-        Please fill out the sections below to help everyone identify and fix the bug
+        Please fill out the sections below to help fix issues that occur when using a filterlist. 
   - type: textarea
     id: description
     attributes:
@@ -38,7 +38,3 @@ body:
       label: "Would you like to work on this issue?"
       options:
         - "Yes"
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for reporting this issue! We will get back to you as soon as possible.
