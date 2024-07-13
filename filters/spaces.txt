@@ -11,7 +11,3 @@ play2048.co###humix-vid-ezAutoMatch
 www.chefkoch.de##aside
 www.n-tv.de##.slider--show-xs.slider > .slick-loading.slick-dotted.slick-slider.slick-initialized.slider__slides--default.slider__slides > .draggable.slick-list
 www.n-tv.de##.sitewrapper.container > section.slider > .slick-loading.slick-dotted.slick-slider.slick-initialized.slider__slides--default.slider__slides > .draggable.slick-list
-www.waz.de##.lg\:block.hidden.max-w-\[300px\] > .ad-slot-wrapper.lg\:h-ad-250\+text
-www.waz.de##aside.ad-slot-wrapper.my-3.lg\:h-ad-250:nth-of-type(1)
-www.waz.de##.mt-2 > .ad-slot-wrapper.lg\:h-ad-250\+text
-www.waz.de##aside.ad-slot-wrapper.my-3.lg\:h-ad-250:nth-of-type(4)
