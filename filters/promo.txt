@@ -1,4 +1,4 @@
-! Title: Custom Filter List for promotional elements
+! Title: Brudda's Filter - Promotional elements
 ! Description: A filter list to block elements that want you to buy/visit something on their website e.g. a Plus Subscription
 ! Last updated: 12-07-2024 at 16:19
 ! Author: Brudda
