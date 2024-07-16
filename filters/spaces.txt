@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Blank/Spaces
 ! Description: A filter list to block e.g. spaces/banners, that have no functionality and just make the website unnecessarily large
-! Last updated: 16-07-2024 at 22:11
+! Last updated: 16-07-2024 at 22:14
 ! Author: Brudda
 ! License: GNU General Public License v3.0
 
@@ -12,4 +12,4 @@ www.chefkoch.de##aside
 www.n-tv.de##.slider--show-xs.slider > .slick-loading.slick-dotted.slick-slider.slick-initialized.slider__slides--default.slider__slides > .draggable.slick-list
 www.n-tv.de##.sitewrapper.container > section.slider > .slick-loading.slick-dotted.slick-slider.slick-initialized.slider__slides--default.slider__slides > .draggable.slick-list
 www.netzwelt.de###btf_first, #main > .without-ad-label.ad, #btf_second, #native_first, #native_second, #native_third, #native_fourth, #native_fifth, #native_sixth
-gibteseinestorung.de##div.section-promoted > .in-post-sticky, .col-12.col-lg-8 div.promoted > .in-post-sticky, div.promoted:nth-of-type(9), div.promoted:nth-of-type(11), div.promoted:nth-of-type(7), div.section-promoted:nth-of-type(6), .d-lg-block.d-none.promoted.sidebar-section > .in-post-sticky, .d-lg-block.d.none.promoted.sidebar-section, .d-lg-block.d-none.promoted-skyscrapper.sidebar-section > .in-post-sticky, .d-lg-block.d-none.promoted-skyscrapper.sidebar-section, .d-lg-block.d-none.promoted-skyscrapper-2.sidebar-section > .in-post-sticky, .d-lg-block.d-none.promoted-skyscrapper-2.sidebar-section, .section-promoted-head
+gibteseinestorung.de##div.section-promoted > .in-post-sticky, .col-12.col-lg-8 div.promoted > .in-post-sticky, div.promoted:nth-of-type(9), div.promoted:nth-of-type(11), div.promoted:nth-of-type(7), div.section-promoted:nth-of-type(6), .d-lg-block.d-none.promoted.sidebar-section > .in-post-sticky, .d-lg-block.d.none.promoted.sidebar-section, .d-lg-block.d-none.promoted-skyscrapper.sidebar-section > .in-post-sticky, .d-lg-block.d-none.promoted-skyscrapper.sidebar-section, .d-lg-block.d-none.promoted-skyscrapper-2.sidebar-section > .in-post-sticky, .d-lg-block.d-none.promoted-skyscrapper-2.sidebar-section, .section-promoted-head, .d-sm-none.section-promoted
