@@ -12,4 +12,4 @@ www.chefkoch.de##aside
 www.n-tv.de##.slider--show-xs.slider > .slick-loading.slick-dotted.slick-slider.slick-initialized.slider__slides--default.slider__slides > .draggable.slick-list
 www.n-tv.de##.sitewrapper.container > section.slider > .slick-loading.slick-dotted.slick-slider.slick-initialized.slider__slides--default.slider__slides > .draggable.slick-list
 www.netzwelt.de###btf_first, #main > .without-ad-label.ad, #btf_second, #native_first, #native_second, #native_third, #native_fourth, #native_fifth, #native_sixth
-
+gibteseinestorung.de##div.section-promoted:nth-of-type(6), div.promoted:nth-of-type(7), div.promoted:nth-of-type(9)
