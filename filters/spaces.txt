@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Blank/Spaces
 ! Description: A filter list to block e.g. spaces/banners, that have no functionality and just make the website unnecessarily large
-! Last updated: 16-07-2024 at 21:44
+! Last updated: 16-07-2024 at 22:00
 ! Author: Brudda
 ! License: GNU General Public License v3.0
 
@@ -11,12 +11,5 @@ play2048.co###humix-vid-ezAutoMatch
 www.chefkoch.de##aside
 www.n-tv.de##.slider--show-xs.slider > .slick-loading.slick-dotted.slick-slider.slick-initialized.slider__slides--default.slider__slides > .draggable.slick-list
 www.n-tv.de##.sitewrapper.container > section.slider > .slick-loading.slick-dotted.slick-slider.slick-initialized.slider__slides--default.slider__slides > .draggable.slick-list
-www.netzwelt.de###btf_first
-www.netzwelt.de###main > .without-ad-label.ad
-www.netzwelt.de###btf_second
-www.netzwelt.de###native_first
-www.netzwelt.de###native_second
-www.netzwelt.de###native_third
-www.netzwelt.de###native_fourth
-www.netzwelt.de###native_fifth
-www.netzwelt.de###native_sixth
+www.netzwelt.de###btf_first, #main > .without-ad-label.ad, #btf_second, #native_first, #native_second, #native_third, #native_fourth, #native_fifth, #native_sixth
+
