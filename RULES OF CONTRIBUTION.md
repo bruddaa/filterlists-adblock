@@ -7,7 +7,7 @@
 - Be cautious when contributing cookie elements. If your adblocker blocks certain annoyances and you still see them, they are often necessary for the website to function.
 
 ## Catergory Definitions
-**Blank Elements/Spaces:** 
+**Blank Elements/Spaces/Annoyances:** 
 These are empty HTML elements or whitespace that do not contribute to the content or functionality of a webpage. They often include unnecessary tags that may affect page layout or loading speed without providing value.
 
 **Promotional Elements:**
