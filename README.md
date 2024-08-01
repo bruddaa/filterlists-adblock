@@ -12,7 +12,7 @@ Blocks potentially unwanted elements
 ### Usage:
 To use this filter list(s), add the following URL(s) to your ad blocker’s custom filter list section.
 
-###### Block blank elements
+###### Block blank elements/Annoyances
 ```
 https://raw.githubusercontent.com/bruddaa/filterlists-adblock/main/filters/spaces.txt
 ```
