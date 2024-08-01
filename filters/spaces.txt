@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Blank/Spaces
 ! Description: A filter list to block e.g. spaces/banners, that have no functionality and just make the website unnecessarily large
-! Last updated: 17-07-2024 at 14:18
+! Last updated: 01-08-2024 at 12:33
 ! Author: Brudda
 ! License: GNU General Public License v3.0
 
