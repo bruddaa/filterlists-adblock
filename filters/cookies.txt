@@ -10,3 +10,5 @@
 ||cm-static.billiger.de/delivery/js/cmp_final.min.js
 www.verizon.com##div#consentManagerMainDialog
 www.tiktok.com##tiktok-cookie-banner
+m.facebook.com##.accelerate._al7j._5m_x
+www.facebook.com##._3qw._4-hy.uiLayer._10
