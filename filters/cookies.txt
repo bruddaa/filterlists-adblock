@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Cookies
 ! Description: A filter list to block cookie dialogs/notices
-! Last updated: 13-07-2024 at 01:00
+! Last updated: 01-08-2024 at 12:38
 ! Author: Brudda
 ! License: GNU General Public License v3.0
 
@@ -9,3 +9,4 @@
 @@||s.p7s1.io/cmp/cmp-prosieben-web.js
 ||cm-static.billiger.de/delivery/js/cmp_final.min.js
 www.verizon.com##div#consentManagerMainDialog
+www.tiktok.com##tiktok-cookie-banner
