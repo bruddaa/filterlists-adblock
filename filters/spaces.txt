@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Blank/Spaces
 ! Description: A filter list to block e.g. spaces/banners, that have no functionality and just make the website unnecessarily large
-! Last updated: 02-08-2024 at 22:47
+! Last updated: 03-08-2024 at 00:08
 ! Author: Brudda
 ! License: GNU General Public License v3.0
 
@@ -26,3 +26,10 @@ reddit.com#@#body:style(pointer-events: auto !important; overflow: auto !importa
 reddit.com##body:style(overflow: auto !important;)
 sh.reddit.com,www.reddit.com##+js(trusted-set-local-storage-item, xpromo-consolidation, $currentDate$)
 !#endif
+
+! Ad Container
+www.waz.de##aside.ad-slot-wrapper.h-ad-280\+text:nth-of-type(2)
+www.waz.de##.ad-slot-wrapper.h-ad-600\+text
+www.waz.de##aside.ad-slot-wrapper.h-ad-280\+text:nth-of-type(5)
+www.waz.de##aside.ad-slot-wrapper.h-ad-280\+text:nth-of-type(6)
+www.waz.de##aside.ad-slot-wrapper.h-ad-280\+text:nth-of-type(7)
