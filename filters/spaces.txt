@@ -19,19 +19,12 @@ www.spiegel.de##.lg\:max-w-lg.md\:max-w-md.sm\:max-w-sm.mx-auto.w-full.z-20.rela
 www.tiktok.com##.e1dsngob0.css-23csj4-DivContainer
 
 ! TEST FILTER
-! Reddit app ad
-www.reddit.com##.XPromoPopupRpl
-www.reddit.com##xpromo-new-app-selector
-www.reddit.com##.bottom-bar, .XPromoBottomBar
-www.reddit.com##.useApp,.TopNav__promoButton
-www.reddit.com##body:style(pointer-events:auto!important;)
-www.reddit.com##.XPromoPopup
-www.reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-www.reddit.com##.XPromoInFeed
-amp.reddit.com##.AppSelectorModal__body
-amp.reddit.com##.upsell_banner
-www.reddit.com##xpromo-app-selector
-www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
-www.reddit.com##+js(aeld, touchmove)
-www.reddit.com##.XPromoPopupRplNew
-
+reddit.com##[bundlename$="nsfw_blocking_modal"]:remove()
+reddit.com##xpromo-nsfw-blocking-container:shadow(.prompt:has(> .viewInApp))
+!#if !env_mobile
+reddit.com#@#body:not(.with-listing-chooser):style(overflow: visible !important; position: static !important;)
+reddit.com#@#body:style(pointer-events: auto !important; overflow: auto !important;)
+!#else
+reddit.com##body:style(overflow: auto !important;)
+sh.reddit.com,www.reddit.com##+js(trusted-set-local-storage-item, xpromo-consolidation, $currentDate$)
+!#endif
