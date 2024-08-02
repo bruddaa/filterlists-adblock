@@ -17,3 +17,12 @@ www.spiegel.de##.lg\:max-w-lg.md\:max-w-md.sm\:max-w-sm.mx-auto.w-full.z-20.rela
 
 ! Use the app notice 
 www.tiktok.com##.e1dsngob0.css-23csj4-DivContainer
+reddit.com##[bundlename$="nsfw_blocking_modal"]:remove()
+reddit.com##xpromo-nsfw-blocking-container:shadow(.prompt:has(> .viewInApp))
+!#if !env_mobile
+reddit.com#@#body:not(.with-listing-chooser):style(overflow: visible !important; position: static !important;)
+reddit.com#@#body:style(pointer-events: auto !important; overflow: auto !important;)
+!#else
+reddit.com##body:style(overflow: auto !important;)
+sh.reddit.com,www.reddit.com##+js(trusted-set-local-storage-item, xpromo-consolidation, $currentDate$)
+!#endif
