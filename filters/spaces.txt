@@ -15,7 +15,7 @@ www.netzwelt.de###btf_first, #main > .without-ad-label.ad, #btf_second, #native_
 gibteseinestorung.de##div.section-promoted > .in-post-sticky, .col-12.col-lg-8 div.promoted > .in-post-sticky, div.promoted:nth-of-type(9), div.promoted:nth-of-type(11), div.promoted:nth-of-type(7), div.section-promoted:nth-of-type(6), .d-lg-block.d-none.promoted.sidebar-section > .in-post-sticky, .d-lg-block.d.none.promoted.sidebar-section, .d-lg-block.d-none.promoted-skyscrapper.sidebar-section > .in-post-sticky, .d-lg-block.d-none.promoted-skyscrapper.sidebar-section, .d-lg-block.d-none.promoted-skyscrapper-2.sidebar-section > .in-post-sticky, .d-lg-block.d-none.promoted-skyscrapper-2.sidebar-section, .section-promoted-head, .d-sm-none.section-promoted
 www.spiegel.de##.lg\:max-w-lg.md\:max-w-md.sm\:max-w-sm.mx-auto.w-full.z-20.relative > .sm\:h-4.md\:h-8.lg\:h-8, div#LdkfnJi, div.sm\:min-h-632.sm\:mb-8.z-10.relative:nth-of-type(5), div.sm\:min-h-492.sm\:mb-8.z-10.relative:nth-of-type(10), div.sm\:min-h-632.sm\:mb-8.z-10.relative:nth-of-type(20), div.sm\:min-h-492.sm\:mb-8.z-10.relative:nth-of-type(25), div.sm\:min-h-632.sm\:mb-8.z-10.relative:nth-of-type(32), div.sm\:min-h-492.sm\:mb-8.z-10.relative:nth-of-type(35), div.sm\:min-h-632.sm\:mb-8.z-10.relative:nth-of-type(37), .sm\:my-4.sm\:min-h-352.z-10.relative
 
-! Use the app notice 
+! Use the app notices 
 www.tiktok.com##.e1dsngob0.css-23csj4-DivContainer
 reddit.com##[bundlename$="nsfw_blocking_modal"]:remove()
 reddit.com##xpromo-nsfw-blocking-container:shadow(.prompt:has(> .viewInApp))
