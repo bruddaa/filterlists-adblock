@@ -28,8 +28,7 @@ sh.reddit.com,www.reddit.com##+js(trusted-set-local-storage-item, xpromo-consoli
 !#endif
 
 ! Ad Container
-www.waz.de##aside.ad-slot-wrapper.h-ad-280\+text:nth-of-type(2)
-www.waz.de##.ad-slot-wrapper.h-ad-600\+text
-www.waz.de##aside.ad-slot-wrapper.h-ad-280\+text:nth-of-type(5)
-www.waz.de##aside.ad-slot-wrapper.h-ad-280\+text:nth-of-type(6)
-www.waz.de##aside.ad-slot-wrapper.h-ad-280\+text:nth-of-type(7)
+www.apkmirror.com##.ains-apkm_billboard_top.ains-has-label.ains-45.ains
+www.apkmirror.com##.ains-apkm_index_injected_1.ains-has-label.ains-3.ains
+www.apkmirror.com##.ains-apkm_sidebar_top.ains-has-label.ains-2.ains
+
