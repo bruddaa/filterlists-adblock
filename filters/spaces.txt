@@ -27,8 +27,3 @@ reddit.com##body:style(overflow: auto !important;)
 sh.reddit.com,www.reddit.com##+js(trusted-set-local-storage-item, xpromo-consolidation, $currentDate$)
 !#endif
 
-! Ad Container
-www.apkmirror.com##.ains-apkm_billboard_top.ains-has-label.ains-45.ains
-www.apkmirror.com##.ains-apkm_index_injected_1.ains-has-label.ains-3.ains
-www.apkmirror.com##.ains-apkm_sidebar_top.ains-has-label.ains-2.ains
-
