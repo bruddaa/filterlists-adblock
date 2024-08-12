@@ -26,3 +26,9 @@ reddit.com#@#body:style(pointer-events: auto !important; overflow: auto !importa
 reddit.com##body:style(overflow: auto !important;)
 sh.reddit.com,www.reddit.com##+js(trusted-set-local-storage-item, xpromo-consolidation, $currentDate$)
 !#endif
+
+reddit.com##xpromo-app-selector
+reddit.com##body:style(overflow: auto !important; pointer-events: auto !important;)
+reddit.com##html:style(overflow: auto !important; pointer-events: auto !important;)
+www.reddit.com##body > div
+www.reddit.com##xpromo-untagged-content-blocking-modal
