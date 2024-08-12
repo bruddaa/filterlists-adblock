@@ -28,7 +28,7 @@ sh.reddit.com,www.reddit.com##+js(trusted-set-local-storage-item, xpromo-consoli
 !#endif
 
 reddit.com##xpromo-app-selector
-reddit.com##body:style(overflow: auto !important; pointer-events: auto !important;)
-reddit.com##html:style(overflow: auto !important; pointer-events: auto !important;)
+reddit.com##body:style(overflow: auto !important; pointer-events: auto !important; touch-action: auto !important;)
+reddit.com##html:style(overflow: auto !important; pointer-events: auto !important; touch-action: auto !important;)
 www.reddit.com##body > div
 www.reddit.com##xpromo-untagged-content-blocking-modal
