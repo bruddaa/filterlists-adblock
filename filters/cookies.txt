@@ -13,3 +13,6 @@ www.tiktok.com##tiktok-cookie-banner
 m.facebook.com##.accelerate._al7j._5m_x
 www.facebook.com##._3qw._4-hy.uiLayer._10
 tinyurl.com##.shadow-sm.px-4.py-3.mb-0.cookie_consent_positioning.bg-white.alert
+
+knowunity.de##.fgQObT.sc-4dc4df25-0 > .content
+knowunity.de##.iPZpyw.sc-806c8efa-0
