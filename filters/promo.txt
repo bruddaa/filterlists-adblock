@@ -1,9 +1,12 @@
 ! Title: Brudda's Filter - Promotional elements
 ! Description: A filter list to block elements that want you to buy/visit something on their website e.g. a Plus Subscription
-! Last updated: 02-08-2024 at 21:19
+! Last updated: 17-12-2024 at 12:17
 ! Author: Brudda
 ! License: GNU General Public License v3.0
 
 ! Banner for a subscription
 www.gamestar.de##.plus-banner-top.col-xs-12
 www.playbite.com###pb-cta, .mb-4.color-border-primary-dark.border-b-4.rounded-full.pb-3.pt-4.px-6.font-bold.text-white.w-5\/6.color-bg-primary.pulse, .flex-row.flex.floating-cta.justify-center.align-middle.py-4
+
+! Download App
+knowunity.de##.dFCxRa.sc-f991b7c4-0
