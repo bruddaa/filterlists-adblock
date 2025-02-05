@@ -16,3 +16,4 @@ tinyurl.com##.shadow-sm.px-4.py-3.mb-0.cookie_consent_positioning.bg-white.alert
 
 knowunity.de##.fgQObT.sc-4dc4df25-0 > .content
 knowunity.de##.iPZpyw.sc-806c8efa-0
+www.netzwelt.de##._ixs19o
