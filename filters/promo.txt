@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Promotional elements
 ! Description: A filter list to block elements that want you to buy/visit something on their website e.g. a Plus Subscription
-! Last updated: 17-12-2024 at 12:17
+! Last updated: 06-02-2024 at 19:05
 ! Author: Brudda
 ! License: GNU General Public License v3.0
 
