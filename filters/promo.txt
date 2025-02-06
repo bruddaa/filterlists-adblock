@@ -10,3 +10,9 @@ www.playbite.com###pb-cta, .mb-4.color-border-primary-dark.border-b-4.rounded-fu
 
 ! Download App
 knowunity.de##.dFCxRa.sc-f991b7c4-0
+
+! Enables Link Access
+ify.ac##a.button.mdui-ripple { display: flex !important; }
+ify.ac###surveygo
+ify.ac##p
+ify.ac##.banner
