@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Blank/Spaces
 ! Description: A filter list to block e.g. spaces/banners, that have no functionality and just make the website unnecessarily large
-! Last updated: 03-08-2024 at 00:08
+! Last updated: 14-05-2025 at 20:16
 ! Author: Brudda
 ! License: GNU General Public License v3.0
 
@@ -32,3 +32,6 @@ sh.reddit.com,www.reddit.com##+js(trusted-set-local-storage-item, xpromo-consoli
 ! reddit.com##html:style(overflow: auto !important; pointer-events: auto !important; touch-action: auto !important;)
 ! www.reddit.com##body > div
 ! www.reddit.com##xpromo-untagged-content-blocking-modal
+
+! Unecessary dialog
+mcdonalds.fast-insight.com##.advertise-pop
