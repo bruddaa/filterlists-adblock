@@ -166,3 +166,5 @@
 *$removeparam=share_plink
 *$removeparam=refer_page_sn
 *$removeparam=refer_page_name
+*$removeparam=is_back
+*$removeparam=_oak_name_id
