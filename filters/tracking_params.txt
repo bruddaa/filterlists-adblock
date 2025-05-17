@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Tracking Params
 ! Description: A filter list to remove common tracking paramters from URLs
-! Last updated: 17-05-2025 at 18:12
+! Last updated: 17-05-2025 at 18:16
 ! Author: Brudda
 
 *$removeparam=ad_id
@@ -141,3 +141,4 @@
 *$removeparam=ug_source
 *$removeparam=ug_campaign
 *$removeparam=scheme_url
+*$removeparam=mkz
