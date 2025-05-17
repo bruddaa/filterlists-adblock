@@ -150,3 +150,7 @@
 *$removeparam=terminal_id
 *$removeparam=hc_1214_tag
 *$removeparam=aff_platform
+*$removeparam=spm
+*$removeparam=pdp_npi
+*$removeparam=afTraceInfo
+*$removeparam=gatewayAdapt
