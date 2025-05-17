@@ -168,3 +168,16 @@
 *$removeparam=refer_page_name
 *$removeparam=is_back
 *$removeparam=_oak_name_id
+*$removeparam=browser_redirect
+*$removeparam=from
+*$removeparam=login_scene
+*$removeparam=no_cache_id
+*$removeparam=browser_id
+*$removeparam=m_page_id
+*$removeparam=xxc
+*$removeparam=mi_id
+*$removeparam=wx_navbar_transparent
+*$removeparam=path
+*$removeparam=topOfferIds
+*$removeparam=productTabId
+*$removeparam=skuId
