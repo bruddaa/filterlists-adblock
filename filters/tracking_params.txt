@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Tracking Params
 ! Description: A filter list to remove common tracking paramters from URLs
-! Last updated: 17-05-2025 at 16:01
+! Last updated: 17-05-2025 at 18:12
 ! Author: Brudda
 
 *$removeparam=ad_id
@@ -128,3 +128,16 @@
 *$removeparam=utm_msclkid
 *$removeparam=/^utm_/
 *$removeparam=/^subid\d?$/
+
+*$removeparam=af_adset_id
+*$removeparam=af_ad_id
+*$removeparam=tap_target
+*$removeparam=wid
+*$removeparam=rid
+*$removeparam=vidab
+*$removeparam=seo_vidab
+*$removeparam=smartui_instance_id
+*$removeparam=jump_time
+*$removeparam=ug_source
+*$removeparam=ug_campaign
+*$removeparam=scheme_url
