@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Tracking Params
 ! Description: A filter list to remove common tracking paramters from URLs
-! Last updated: 17-05-2025 at 20:18
+! Last updated: 17-05-2025 at 20:24
 ! Author: Brudda
 
 *$removeparam=ad_id
@@ -182,3 +182,26 @@
 *$removeparam=topOfferIds
 *$removeparam=productTabId
 *$removeparam=skuId
+*$removeparam=gs_lcp
+*$removeparam=ved
+*$removeparam=uact
+*$removeparam=ei
+*$removeparam=gws_rd
+*$removeparam=_hsmi
+*$removeparam=_hstc
+*$removeparam=yclid
+*$removeparam=oly_anon_id
+*$removeparam=wickedid
+*$removeparam=smcid
+*$removeparam=__ar_v
+*$removeparam=__tw
+*$removeparam=browser
+*$removeparam=os_version
+*$removeparam=screen_resolution
+*$removeparam=px_hash
+*$removeparam=bot_check
+*$removeparam=sourceid
+*$removeparam=gbv
+*$removeparam=gs_ssp
+*$removeparam=pcd
+*$removeparam=pgclkid
