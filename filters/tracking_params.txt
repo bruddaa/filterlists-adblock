@@ -1,7 +1,10 @@
 ! Title: Brudda's Filter - Tracking Params
 ! Description: A filter list to remove common tracking paramters from URLs
-! Last updated: 17-05-2025 at 22:33
+! Last updated: 17-05-2025 at 23:29
 ! Author: Brudda
+
+!*$removeparam=p CAUSES ISSUE WITH BING SHOPPPING
+!*$removeparam=hash UNTESTED
 
 *$removeparam=ad_id
 *$removeparam=affiliate
@@ -37,7 +40,6 @@
 *$removeparam=gclid
 *$removeparam=gclsrc
 *$removeparam=dclid
-!*$removeparam=hash
 *$removeparam=hs_campaign_id
 *$removeparam=hs_cid
 *$removeparam=igsh
@@ -54,7 +56,6 @@
 *$removeparam=mc_eid
 *$removeparam=nbbct
 *$removeparam=offer_id
-!*$removeparam=p CAUSES ISSUE WITH BING SHOPPPING
 *$removeparam=partner
 *$removeparam=partner_id
 *$removeparam=pid
@@ -243,6 +244,7 @@
 *$removeparam=refID
 reichelt.de|caseking.de|computeruniverse.net$removeparam=shopid
 galaxus.de$removeparam=supplier
+geizhals.de$removeparam=tid
 *$removeparam=toolid
 *$removeparam=customid
 *$removeparam=smid
