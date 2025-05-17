@@ -17,7 +17,7 @@ Promotional elements are components on a webpage that encourage user actions, su
 Cookie notices are notifications that inform users about the use of cookies on a website, typically for tracking or personalization purposes. These notices often appear as banners or pop-ups, requiring user consent and can sometimes be intrusive or repetitive.
 
 **Tracking Parameters:**
-These are URL query strings used to monitor user behavior across websites. They typically appear after the ? in a URL and can reveal:
+These are URL query strings used to monitor user behavior across websites. They typically appear after the ? in an URL and can reveal:
 
 - Source tracking (where you came from)
 - Click/engagement data
