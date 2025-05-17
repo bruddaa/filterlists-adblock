@@ -217,3 +217,10 @@
 *$removeparam=qsid
 *$removeparam=sres
 *$removeparam=th
+*$removeparam=c_id
+*$removeparam=extProvId
+*$removeparam=extProvApi
+*$removeparam=extPu
+*$removeparam=extLi
+*$removeparam=extCr
+*$removeparam=m_clid
