@@ -24,6 +24,11 @@ https://raw.githubusercontent.com/bruddaa/filterlists-adblock/main/filters/cooki
 ```
 https://raw.githubusercontent.com/bruddaa/filterlists-adblock/main/filters/promo.txt
 ```
+###### Block URL tracking parameters
+```
+https://raw.githubusercontent.com/bruddaa/filterlists-adblock/main/filters/tracking_params.txt
+```
+
 ##### [Category Definitions](https://github.com/bruddaa/filterlists-adblock/blob/main/RULES%20OF%20CONTRIBUTION.md#catergory-definitions)
 
 
