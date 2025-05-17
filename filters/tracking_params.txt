@@ -154,3 +154,10 @@
 *$removeparam=pdp_npi
 *$removeparam=afTraceInfo
 *$removeparam=gatewayAdapt
+*$removeparam=adp
+*$removeparam=src_module
+*$removeparam=src_identifier
+*$removeparam=src_tab_page_id
+*$removeparam=ici
+*$removeparam=fromPageType
+*$removeparam=entranceType
