@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Tracking Params
 ! Description: A filter list to remove common tracking paramters from URLs
-! Last updated: 17-05-2025 at 22:10
+! Last updated: 17-05-2025 at 22:13
 ! Author: Brudda
 
 *$removeparam=ad_id
@@ -236,3 +236,4 @@
 *$removeparam=cs_id
 *$removeparam=ccpid
 *$removeparam=APID
+*$removeparam=campid
