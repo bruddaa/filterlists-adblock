@@ -248,3 +248,4 @@ galaxus.de$removeparam=supplier
 *$removeparam=smid
 *$removeparam=vdat
 *$removeparam=sPartner
+*$removeparam=partnerCode
