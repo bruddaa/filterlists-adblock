@@ -142,3 +142,11 @@
 *$removeparam=ug_campaign
 *$removeparam=scheme_url
 *$removeparam=mkz
+*$removeparam=aff_short_key
+*$removeparam=aff_fcid
+*$removeparam=aff_fsk
+*$removeparam=aff_trace_key
+*$removeparam=sk
+*$removeparam=terminal_id
+*$removeparam=hc_1214_tag
+*$removeparam=aff_platform
