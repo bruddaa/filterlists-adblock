@@ -1,11 +1,13 @@
 ! Title: Brudda's Filter - Tracking Params
 ! Description: A filter list to remove common tracking paramters from URLs
-! Last updated: 17-05-2025 at 20:37
+! Last updated: 17-05-2025 at 20:53
 ! Author: Brudda
 
 *$removeparam=ad_id
 *$removeparam=affiliate
 *$removeparam=aff
+*$removeparam=affid
+*$removeparam=affId
 *$removeparam=aff_id
 *$removeparam=affiliate_id
 *$removeparam=aff_track
@@ -19,6 +21,7 @@
 *$removeparam=campaignid
 *$removeparam=checkout_id
 *$removeparam=clickid
+*$removeparam=clickId
 *$removeparam=click_id
 *$removeparam=clickref
 *$removeparam=clickrefid
@@ -205,6 +208,10 @@
 *$removeparam=gs_ssp
 *$removeparam=pcd
 *$removeparam=pgclkid
+*$removeparam=coopid
+*$removeparam=ds_kid
+*$removeparam=cp
+*$removeparam=mfadid
 *$removeparam=__mk_de_DE
 *$removeparam=crid
 *$removeparam=qsid
