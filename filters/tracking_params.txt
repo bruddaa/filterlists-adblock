@@ -161,3 +161,8 @@
 *$removeparam=ici
 *$removeparam=fromPageType
 *$removeparam=entranceType
+*$removeparam=same_see
+*$removeparam=jump_from_goods
+*$removeparam=share_plink
+*$removeparam=refer_page_sn
+*$removeparam=refer_page_name
