@@ -239,6 +239,7 @@
 *$removeparam=ccpid
 *$removeparam=APID
 *$removeparam=campid
+*$removeparam=cm_mmc
 *$removeparam=PROVID
 *$removeparam=emid
 *$removeparam=refID
