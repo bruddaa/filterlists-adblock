@@ -1,12 +1,14 @@
 ! Title: Brudda's Filter - Tracking Params
 ! Description: A filter list to remove common tracking paramters from URLs
-! Last updated: 18-05-2025 at 02:10
+! Last updated: 20-05-2025 at 16:25
 ! Author: Brudda
 
 !*$removeparam=p CAUSES ISSUE WITH BING SHOPPPING
 !*$removeparam=hash UNTESTED
 !*$removeparam=_t
 !*$removeparam=_r
+!*$removeparam=aid
+!*$removeparam=from
 
 *$removeparam=ad_id
 *$removeparam=affiliate
@@ -96,7 +98,7 @@
 *$removeparam=twclid
 *$removeparam=voucher_code
 *$removeparam=vpid
-*$removeparam=wbraid
+*$removeparam=wbr
 *$removeparam=zanpid
 *$removeparam=zanp
 *$removeparam=ascsubtag
@@ -175,7 +177,7 @@
 *$removeparam=is_back
 *$removeparam=_oak_name_id
 *$removeparam=browser_redirect
-*$removeparam=from
+
 *$removeparam=login_scene
 *$removeparam=no_cache_id
 *$removeparam=browser_id
@@ -234,7 +236,7 @@
 *$removeparam=m_clid
 *$removeparam=ocid
 *$removeparam=cvid
-*$removeparam=aid
+
 *$removeparam=label
 *$removeparam=cs_id
 *$removeparam=ccpid
