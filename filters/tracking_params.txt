@@ -117,7 +117,7 @@
 *$removeparam=_sid
 *$removeparam=_branch_match_id
 *$removeparam=_branch_referrer
-*$removeparam=_t
+!*$removeparam=_t
 *$removeparam=_r
 *$removeparam=mibextid
 *$removeparam=fb_action_ids
