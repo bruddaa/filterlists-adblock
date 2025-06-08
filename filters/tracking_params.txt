@@ -10,6 +10,8 @@
 !*$removeparam=aid
 !*$removeparam=from
 
+*$removeparam=em_src
+
 *$removeparam=ad_id
 *$removeparam=affiliate
 *$removeparam=aff
