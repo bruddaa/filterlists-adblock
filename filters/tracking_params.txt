@@ -14,6 +14,7 @@
 *$removeparam=/^cip_/
 *$removeparam=cip
 *$removeparam=__wr
+www.billiger.de$removeparam=/^(mc|log)$/
 
 *$removeparam=ad_id
 *$removeparam=affiliate
