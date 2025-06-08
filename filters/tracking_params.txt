@@ -1,6 +1,6 @@
 ! Title: Brudda's Filter - Tracking Params
 ! Description: A filter list to remove common tracking paramters from URLs
-! Last updated: 09-06-2025 at 00:42
+! Last updated: 09-06-2025 at 00:51
 ! Author: Brudda
 
 !*$removeparam=p CAUSES ISSUE WITH BING SHOPPPING
@@ -14,7 +14,8 @@
 *$removeparam=/^cip_/
 *$removeparam=cip
 *$removeparam=__wr
-www.billiger.de$removeparam=/^(mc|log)$/
+www.billiger.de$removeparam=mc  
+www.billiger.de$removeparam=log  
 
 *$removeparam=ad_id
 *$removeparam=affiliate
