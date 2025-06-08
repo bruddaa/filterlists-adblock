@@ -10,7 +10,9 @@
 !*$removeparam=aid
 !*$removeparam=from
 
-*$removeparam=em_src
+*$removeparam=/^em_/
+*$removeparam=/^cip_/
+*$removeparam=cip
 
 *$removeparam=ad_id
 *$removeparam=affiliate
